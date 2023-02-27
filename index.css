@@ -1,0 +1,79 @@
+
+
+ .button1, .button2, .button3{
+    display: inline-block;
+    margin: 10rem;
+    margin-bottom: 2%;
+    margin-right: 20rem;
+    margin-left: auto;
+    text-align: center;
+    font-family: monospace;
+    border-radius: 20%;
+    padding: 1rem;
+}
+
+.visit, img[src*="header"], h1{
+    display: inline-block;
+}
+
+.learn {
+    background-color: #DDB9A3;
+}
+
+.button1 {
+    background-color: #FF764E;
+    
+}
+
+.button2 {
+    background-color: #5ED3EB;
+}
+
+.button3 {
+    background-color: #FFCD69;
+}
+
+h1 {
+    font-family: 'Courier New';
+}
+
+p {
+    font-family: monospace;
+    text-align: center;
+}
+
+img {
+    border-radius: 50rem;
+}
+
+img[src*="campfire"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+img[src*="camper"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img[src*="header"] {
+    display: block;
+    margin-right: auto;
+    border-radius: 50rem;
+    width: 20rem;
+    height: 20rem;
+    padding: 2rem;
+    border: 0rem
+}
+
+footer {
+    background-color: #F9E7DC;
+}
+
+footer img:first-child {
+    border-radius: 0rem;
+    width: 100%;
+}
